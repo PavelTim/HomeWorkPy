@@ -1,6 +1,7 @@
 # gitignore для pycharm и VSC
 create.sql
 diagramm.png
+oldfunc.py
 
 # .idea/ заигнорена последней строчкой файла. ()
 
